@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a junior front-end web developer. Also working as a freelance translator (EN<>TR) in my spare time for over 7 years. Recently I've chosen web development path in my career and at the moment I'm familiar with HTML, CSS, Javascript. For the short-term, I'm trying to master every possible section front-end web development includes — using websites like frontendmentor, patika, javascript 30 etc. — and the long-term, gravitating towards back-end and will become a full-stack web developer.
+I'm a junior front-end web developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. Recently I've chosen web development path in my career and at the moment I'm familiar with HTML, CSS, Javascript. For the short-term, I'm trying to master every possible section front-end web development includes — using websites like frontendmentor, patika, javascript 30 etc. — and for the long-term, gravitating towards back-end and will become a full-stack web developer.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -34,7 +34,19 @@ I'm a junior front-end web developer. Also working as a freelance translator (EN
 
 ## Short Term Goals
 
+- [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
+- [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
+- [ ] Complete "JavaScript Essentials 1" Course
+- [ ] Complete "Patika.dev Orta Seviye Web Development" Course
+- [ ] Learn ReactJS
+
 ## Long Term Goals
+
+- [ ] Learn Java
+
+## Recent Projects Completed (Monthly Renewed)
+
+- [FAQ Accordion Card](https://github.com/halibal/faq-accordion-card)
 
 ## Contact Me
 
