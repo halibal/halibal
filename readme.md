@@ -1,6 +1,8 @@
 # WELCOME ABOARD
 
-![Header](./img/gif1.gif)
+<p align="center">
+    <img src="./img/gif1.gif">
+</p>
 
 ## About Me
 
@@ -36,9 +38,12 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 - [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
 - [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
+- [X] ~~Complete "Stats Preview Card Component" Project~~
 - [ ] Complete "JavaScript Essentials 1" Course
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
+- [ ] Learn jQuery
+- [ ] Learn Vue.js
 
 ## Long Term Goals
 
@@ -47,6 +52,9 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 ## Recent Projects Completed (Monthly Renewed)
 
 - [FAQ Accordion Card](https://github.com/halibal/faq-accordion-card)
+- [Base Apparel Coming Soon Page](https://halibal.github.io/base-apparel-coming-home-page/)
+- [Ping Single Column Coming Soon Page](https://halibal.github.io/ping-single-column-coming-soon-page/)
+- [Stats Preview Card Component](https://halibal.github.io/frontendmentor-projects/Stats_Preview_Card_Component/index.html)
 
 ## Contact Me
 
