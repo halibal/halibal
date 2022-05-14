@@ -39,7 +39,7 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 - [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
 - [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
 - [X] ~~Complete "Stats Preview Card Component" Project~~
-- [ ] Complete "JavaScript Essentials 1" Course
+- [X] ~~Complete "JavaScript Essentials 1" Course~~
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
 - [ ] Learn jQuery
