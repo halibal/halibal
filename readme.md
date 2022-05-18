@@ -21,7 +21,7 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 ## Languages
 
 ![Turkish Flag](./img/icons8-turkey-24.png)
-![British Flag](./img/icons8-great-britain-24.png)
+![USA Flag](./img/icons8-usa-24.png)
 ![Spanish Flag](./img/icons8-spain-flag-24.png)
 
 ## Programming
@@ -39,6 +39,7 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 - [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
 - [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
 - [X] ~~Complete "Stats Preview Card Component" Project~~
+- [X] ~~"Complete "Intro Section With Dropdown Navigation" Project~~
 - [X] ~~Complete "JavaScript Essentials 1" Course~~
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
@@ -51,10 +52,11 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Recent Projects Completed (Monthly Renewed)
 
-- [FAQ Accordion Card](https://github.com/halibal/faq-accordion-card)
-- [Base Apparel Coming Soon Page](https://halibal.github.io/base-apparel-coming-home-page/)
-- [Ping Single Column Coming Soon Page](https://halibal.github.io/ping-single-column-coming-soon-page/)
+- [Intro Section With Dropdown Navigation](https://github.com/halibal/frontendmentor-projects/tree/main/Intro_Section_With_Dropdown_Navigation)
 - [Stats Preview Card Component](https://halibal.github.io/frontendmentor-projects/Stats_Preview_Card_Component/index.html)
+- [Ping Single Column Coming Soon Page](https://halibal.github.io/ping-single-column-coming-soon-page/)
+- [Base Apparel Coming Soon Page](https://halibal.github.io/base-apparel-coming-home-page/)
+- [FAQ Accordion Card](https://github.com/halibal/faq-accordion-card)
 
 ## Contact Me
 
