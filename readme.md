@@ -36,6 +36,7 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Short Term Goals
 
+- [X] ~~Complete "Interactive Pricing Component" Project~~
 - [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
 - [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
 - [X] ~~Complete "Stats Preview Card Component" Project~~
@@ -52,6 +53,7 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Recent Projects Completed (Monthly Renewed)
 
+- [Interactive Pricing Component](https://halibal.github.io/frontendmentor-projects/Interactive_Pricing_Component/index.html)
 - [Intro Section With Dropdown Navigation](https://github.com/halibal/frontendmentor-projects/tree/main/Intro_Section_With_Dropdown_Navigation)
 - [Stats Preview Card Component](https://halibal.github.io/frontendmentor-projects/Stats_Preview_Card_Component/index.html)
 - [Ping Single Column Coming Soon Page](https://halibal.github.io/ping-single-column-coming-soon-page/)
