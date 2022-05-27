@@ -28,7 +28,9 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 [![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)](###Programming)
 [![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)](###Programming)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](###Programming)
 [![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](###Programming)
+[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](###Programming)
 
 <a href="https://github.com/halibal">
         <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs?username=halibal&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
@@ -37,11 +39,9 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 ## Short Term Goals
 
 - [X] ~~Complete "Interactive Pricing Component" Project~~
-- [X] ~~Complete "Base Apparel Coming Soon Page" Project~~
-- [X] ~~Complete "Ping Single Column Coming Soon Page" Project~~
-- [X] ~~Complete "Stats Preview Card Component" Project~~
 - [X] ~~"Complete "Intro Section With Dropdown Navigation" Project~~
-- [X] ~~Complete "JavaScript Essentials 1" Course~~
+- [X] ~~Complete "Stats Preview Card Component" Project~~
+- [X] ~~ReactJS Landing Page~~
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
 - [ ] Learn jQuery
