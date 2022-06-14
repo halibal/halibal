@@ -38,14 +38,12 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Short Term Goals
 
-- [X] ~~Complete "Interactive Pricing Component" Project~~
-- [X] ~~"Complete "Intro Section With Dropdown Navigation" Project~~
-- [X] ~~Complete "Stats Preview Card Component" Project~~
-- [X] ~~ReactJS Landing Page~~
+- [X] ~~Complete "Todo App" Project~~
+- [X] ~~Complete "Tenzies Game" Project~~
+- [X] ~~Complete "Meme Generator" Project~~
+- [X] ~~Complete "Game Journal" Project~~
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
-- [ ] Learn jQuery
-- [ ] Learn Vue.js
 
 ## Long Term Goals
 
@@ -53,12 +51,10 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Recent Projects Completed (Monthly Renewed)
 
-- [Interactive Pricing Component](https://halibal.github.io/frontendmentor-projects/Interactive_Pricing_Component/index.html)
-- [Intro Section With Dropdown Navigation](https://github.com/halibal/frontendmentor-projects/tree/main/Intro_Section_With_Dropdown_Navigation)
-- [Stats Preview Card Component](https://halibal.github.io/frontendmentor-projects/Stats_Preview_Card_Component/index.html)
-- [Ping Single Column Coming Soon Page](https://halibal.github.io/ping-single-column-coming-soon-page/)
-- [Base Apparel Coming Soon Page](https://halibal.github.io/base-apparel-coming-home-page/)
-- [FAQ Accordion Card](https://github.com/halibal/faq-accordion-card)
+- [Todo App](https://halibal.github.io/todo-react/)
+- [Tenzies Game](https://halibal.github.io/tenzies-game/)
+- [Meme Generator](https://halibal.github.io/meme-generator/)
+- [Game Journal](https://halibal.github.io/my-game-journal/)
 
 ## Contact Me
 
