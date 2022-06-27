@@ -71,3 +71,13 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 - ![Air Rifle Shooting](./img/icons8-shooting-target-24.png) Air Rifle Shooting
 - ![Karate-Do](./img/icons8-karate-24.png) Karate-Do
 - ![Classical Guitar](./img/icons8-guitar-24.png) Classical Guitar
+
+<p align="center" style="text-align: center;">
+    <a href="https://github.com/halibal">
+    <img
+        width="100px"
+        align="right"
+        src="https://visitor-badge.glitch.me/badge?page_id=halibal.visitor-badge&left_color=grey&right_color=blueviolet&left_text=My%20Page%20Visitors"
+        />
+    </a>
+</p>
