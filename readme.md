@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a junior front-end web developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. Recently I've chosen web development path in my career and at the moment I'm familiar with HTML, CSS, Javascript. For the short-term, I'm trying to master every possible section front-end web development includes — using websites like frontendmentor, patika, javascript 30 etc. — and for the long-term, gravitating towards back-end and will become a full-stack web developer.
+I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. Recently I've chosen front end development path in my career and at the moment I'm familiar with HTML, CSS, Javascript and studying ReactJS. For the short-term, I'm trying to master every possible section front end development using websites like frontendmentor, patika, javascript 30, coderbyte, hackerrank etc. — and for the long-term will become a web 3.0 developer.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -38,23 +38,25 @@ I'm a junior front-end web developer. Graduated from Uludag University Political
 
 ## Short Term Goals
 
-- [X] ~~Complete "Todo App" Project~~
-- [X] ~~Complete "Tenzies Game" Project~~
-- [X] ~~Complete "Meme Generator" Project~~
-- [X] ~~Complete "Game Journal" Project~~
+- [X] ~~Complete "Gym Exercise Application" Project~~
+- [X] ~~Complete "Calculator Application" Project~~
+- [X] ~~Complete "Recipe Application" Project~~
+- [ ] Renewment of the CV page with ReactJS
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
 
 ## Long Term Goals
 
-- [ ] Learn Java
+- [ ] Learn TypeScript
+- [ ] Learn Web 3.0
 
-## Recent Projects Completed (Monthly Renewed)
+## Some of My Projects
 
 - [Todo App](https://halibal.github.io/todo-react/)
 - [Tenzies Game](https://halibal.github.io/tenzies-game/)
-- [Meme Generator](https://halibal.github.io/meme-generator/)
-- [Game Journal](https://halibal.github.io/my-game-journal/)
+- [Calculator Application](https://halibal.github.io/calculator-application-reactjs/)
+- [Gym Exercise Application](https://halibal-gym-application.netlify.app)
+- [Recipe Application](https://halibal.github.io/recipe-application/)
 
 ## Contact Me
 
