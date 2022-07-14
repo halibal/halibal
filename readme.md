@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. Recently I've chosen front end development path in my career and at the moment I'm familiar with HTML, CSS, Javascript and studying ReactJS. For the short-term, I'm trying to master every possible section front end development using websites like frontendmentor, patika, javascript 30, coderbyte, hackerrank etc. — and for the long-term will become a web 3.0 developer.
+I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. Recently I've chosen front end development path in my career and at the moment I'm familiar with HTML, CSS, Javascript and studying ReactJS. For the short-term, I'm trying to master every possible front end development section using websites like frontendmentor, patika, javascript 30, coderbyte, hackerrank etc. — and for the long-term will become a web 3.0 developer.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
