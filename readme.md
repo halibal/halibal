@@ -3,6 +3,7 @@
 <p align="center">
     <img src="./img/gif1.gif">
 </p>
+
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
     <img
@@ -12,6 +13,7 @@
         />
     </a>
 </p>
+
 ## About Me
 
 I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front end development journey and at the moment I'm familiar with Git, Github, HTML, CSS, Bootstrap, Javascript, jQuery and ReactJS. For the short-term, I'll be mastering every possible section that front end development section includes, and for the long-term I will become a web 3.0 developer.
