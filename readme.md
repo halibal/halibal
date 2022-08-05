@@ -52,7 +52,7 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 - [X] ~~Complete "Gym Exercise Application" Project~~
 - [X] ~~Complete "Calculator Application" Project~~
 - [X] ~~Complete "Recipe Application" Project~~
-- [ ] Hackerrank and Coderbyte Solutions Website Project
+- [X] ~~Hackerrank and Coderbyte Solutions Website Project~~
 - [ ] Renewment of the CV page with ReactJS
 - [ ] Complete "Patika.dev Orta Seviye Web Development" Course
 - [ ] Learn ReactJS
@@ -69,6 +69,7 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 - [Calculator Application](https://halibal.github.io/calculator-application-reactjs/)
 - [Gym Exercise Application](https://halibal-gym-application.netlify.app)
 - [Recipe Application](https://halibal.github.io/recipe-application/)
+- [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/)
 
 ## Contact Me
 
