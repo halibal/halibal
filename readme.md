@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front end development journey and at the moment I'm familiar with Git, Github, HTML, CSS, Bootstrap, Javascript, jQuery and ReactJS. For the short-term, I'll be mastering every possible section that front end development section includes, and for the long-term I will become a web 3.0 developer.
+I'm a front end developer. Graduated from Uludag University Political Sciences and Public Administration in 2018. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front end development journey and at the moment I'm familiar with Git, Github, HTML, CSS, Bootstrap, Javascript, jQuery and ReactJS. For the short-term, I'll be mastering every possible section that front end development includes, and for the long-term I will become a web 3.0 developer.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -36,8 +36,9 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 
 ## Programming
 
-[![HTML](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)](###Programming)
-[![CSS](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)](###Programming)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](###Programming)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](###Programming)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](###Programming)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](###Programming)
 [![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](###Programming)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](###Programming)
@@ -49,27 +50,27 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 
 ## Short Term Goals
 
-- [X] ~~Complete "Gym Exercise Application" Project~~
-- [X] ~~Complete "Calculator Application" Project~~
-- [X] ~~Complete "Recipe Application" Project~~
-- [X] ~~Hackerrank and Coderbyte Solutions Website Project~~
-- [ ] Renewment of the CV page with ReactJS
-- [ ] Complete "Patika.dev Orta Seviye Web Development" Course
-- [ ] Learn ReactJS
+-   [x] ~~Complete "Gym Exercise Application" Project~~
+-   [x] ~~Complete "Calculator Application" Project~~
+-   [x] ~~Complete "Recipe Application" Project~~
+-   [x] ~~Hackerrank and Coderbyte Solutions Website Project~~
+-   [ ] Renewment of the CV page with ReactJS
+-   [ ] Complete "Patika.dev Orta Seviye Web Development" Course
+-   [ ] Learn ReactJS
 
 ## Long Term Goals
 
-- [ ] Learn TypeScript
-- [ ] Learn Web 3.0
+-   [ ] Learn TypeScript
+-   [ ] Learn Web 3.0
 
 ## Some of My Projects
 
-- [Todo App](https://halibal.github.io/todo-react/)
-- [Tenzies Game](https://halibal.github.io/tenzies-game/)
-- [Calculator Application](https://halibal.github.io/calculator-application-reactjs/)
-- [Gym Exercise Application](https://halibal-gym-application.netlify.app)
-- [Recipe Application](https://halibal.github.io/recipe-application/)
-- [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/)
+-   [Todo App](https://halibal.github.io/todo-react/)
+-   [Tenzies Game](https://halibal.github.io/tenzies-game/)
+-   [Calculator Application](https://halibal.github.io/calculator-application-reactjs/)
+-   [Gym Exercise Application](https://halibal-gym-application.netlify.app)
+-   [Recipe Application](https://halibal.github.io/recipe-application/)
+-   [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/)
 
 ## Contact Me
 
@@ -81,9 +82,9 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 
 ### Hobbies
 
-- ![Gaming](./img/icons8-game-24.png) Gaming
-- ![Latin Dances](./img/icons8-tango-24.png) Latin Dances
-- ![Traditional Archery](./img/icons8-archery-24.png) Traditional Archery
-- ![Air Rifle Shooting](./img/icons8-shooting-target-24.png) Air Rifle Shooting
-- ![Karate-Do](./img/icons8-karate-24.png) Karate-Do
-- ![Classical Guitar](./img/icons8-guitar-24.png) Classical Guitar
+-   ![Gaming](./img/icons8-game-24.png) Gaming
+-   ![Latin Dances](./img/icons8-tango-24.png) Latin Dances
+-   ![Traditional Archery](./img/icons8-archery-24.png) Traditional Archery
+-   ![Air Rifle Shooting](./img/icons8-shooting-target-24.png) Air Rifle Shooting
+-   ![Karate-Do](./img/icons8-karate-24.png) Karate-Do
+-   ![Classical Guitar](./img/icons8-guitar-24.png) Classical Guitar
