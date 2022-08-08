@@ -21,9 +21,8 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
     <img
-        width="200px"
         align="center"
-        src="https://github-profile-trophy.vercel.app/?username=halibal&theme=dracula&title=Commit,Repository&column=2&margin-w=15&margin-h=15"
+        src="https://github-profile-trophy.vercel.app/?username=halibal&theme=discord"
         />
     </a>
 </p>
