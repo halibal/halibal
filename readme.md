@@ -53,9 +53,8 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 -   [x] ~~Complete "Calculator Application" Project~~
 -   [x] ~~Complete "Recipe Application" Project~~
 -   [x] ~~Hackerrank and Coderbyte Solutions Website Project~~
--   [ ] Renewment of the CV page with ReactJS
--   [ ] Complete "Patika.dev Orta Seviye Web Development" Course
--   [ ] Learn ReactJS
+-   [ ] Learn React JS
+-   [ ] Learn Redux
 
 ## Long Term Goals
 
@@ -64,12 +63,13 @@ I'm a front end developer. Graduated from Uludag University Political Sciences a
 
 ## Some of My Projects
 
--   [Todo App](https://halibal.github.io/todo-react/)
--   [Tenzies Game](https://halibal.github.io/tenzies-game/)
--   [Calculator Application](https://halibal.github.io/calculator-application-reactjs/)
--   [Gym Exercise Application](https://halibal-gym-application.netlify.app)
--   [Recipe Application](https://halibal.github.io/recipe-application/)
--   [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/)
+-   [Todo App](https://halibal.github.io/todo-react/) —— [Repo](https://github.com/halibal/todo-react)
+-   [Tenzies Game](https://halibal.github.io/tenzies-game/) —— [Repo](https://github.com/halibal/tenzies-game)
+-   [Calculator Application](https://halibal.github.io/calculator-application-reactjs/) —— [Repo](https://github.com/halibal/calculator-application-reactjs)
+-   [Gym Exercise Application](https://halibal-gym-application.netlify.app) —— [Repo](https://github.com/halibal/gym-application)
+-   [Recipe Application](https://halibal.github.io/recipe-application/) —— [Repo](https://github.com/halibal/recipe-application)
+-   [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/) —— [Repo](https://github.com/halibal/hackerrank-coderbyte-solutions)
+-   [Tic Tac Toe](https://halibal.github.io/tic-tac-toe/) —— [Repo](https://github.com/halibal/tic-tac-toe)
 
 ## Contact Me
 
