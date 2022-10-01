@@ -16,7 +16,10 @@
 
 ## About Me
 
-I'm a front end developer. Working as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front end development journey and at the moment I'm familiar with Git, Github, HTML, CSS, SASS, Bootstrap, Javascript, jQuery and ReactJS. For the short-term, I'll be mastering every possible section that front end development includes, and for the long-term I will become a web 3.0 developer.
+I'm a front-end developer. Worked as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front-end development journey. I believe in developing oneself constantly by following recent developments in the field and working as a team. At the moment I'm familiar with Git version control system and GitHub, development methodologies such as Agile and Scrum, project management systems like Jira; API imitation servers like mockAPI
+and Postman — API management/testing platform.
+
+In my projects, I've been using programming languages, preprocessors, frameworks, libraries, module bundlers and data formats such as HTML, CSS, SASS (SCSS), JSON, Bootstrap, JavaScript, jQuery, WebPack, React JS, Redux-Toolkit. Implementing clean coding, and complying with deadline in these projects are two of my top priorities. For the short-term goals, I'll master React JS and Redux-Toolkit; As for the long-term, I'll become a web 3.0 developer.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -42,6 +45,8 @@ I'm a front end developer. Working as a freelance translator (not sworn) (EN<>TR
 [![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](###Programming)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](###Programming)
 [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](###Programming)
+[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](###Programming)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](###Programming)
 
 <a href="https://github.com/halibal">
         <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs?username=halibal&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
@@ -49,24 +54,23 @@ I'm a front end developer. Working as a freelance translator (not sworn) (EN<>TR
 
 ## Short Term Goals
 
--   [x] ~~Complete "Gym Exercise Application" Project~~
--   [x] ~~Complete "Calculator Application" Project~~
--   [x] ~~Complete "Recipe Application" Project~~
--   [x] ~~Hackerrank and Coderbyte Solutions Website Project~~
--   [ ] Learn React JS
--   [ ] Learn Redux
+-   [x] Learn React JS
+-   [x] Learn Redux
+-   [ ] Learn NextJS
+-   [ ] Learn TypeScript
 
 ## Long Term Goals
 
--   [ ] Learn TypeScript
+-   [ ] Learn Svelte
 -   [ ] Learn Web 3.0
 
 ## Some of My Projects
 
--   [Todo App](https://halibal.github.io/todo-react/) —— [Repo](https://github.com/halibal/todo-react)
+-   [Greater Roads](https://greater-roads-8nrg.vercel.app)
+-   [Gym Exercise Application](https://halibal-gym-application.netlify.app) —— [Repo](https://github.com/halibal/gym-application)
+-   [Todo App](https://todo-2-snowy.vercel.app) —— [Repo](https://github.com/halibal/todo_2)
 -   [Tenzies Game](https://halibal.github.io/tenzies-game/) —— [Repo](https://github.com/halibal/tenzies-game)
 -   [Calculator Application](https://halibal.github.io/calculator-application-reactjs/) —— [Repo](https://github.com/halibal/calculator-application-reactjs)
--   [Gym Exercise Application](https://halibal-gym-application.netlify.app) —— [Repo](https://github.com/halibal/gym-application)
 -   [Recipe Application](https://halibal.github.io/recipe-application/) —— [Repo](https://github.com/halibal/recipe-application)
 -   [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/) —— [Repo](https://github.com/halibal/hackerrank-coderbyte-solutions)
 -   [Tic Tac Toe](https://halibal.github.io/tic-tac-toe/) —— [Repo](https://github.com/halibal/tic-tac-toe)
@@ -87,3 +91,10 @@ I'm a front end developer. Working as a freelance translator (not sworn) (EN<>TR
 -   ![Air Rifle Shooting](./img/icons8-shooting-target-24.png) Air Rifle Shooting
 -   ![Karate-Do](./img/icons8-karate-24.png) Karate-Do
 -   ![Classical Guitar](./img/icons8-guitar-24.png) Classical Guitar
+
+
+### Can't Rule Out The Fact That I'm A Gamer
+
+ - [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+ - [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+ - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuAvmRUGYwoYevECTiBx_vw)
