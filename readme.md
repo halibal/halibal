@@ -16,8 +16,7 @@
 
 ## About Me
 
-I'm a front-end developer. Worked as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front-end development journey. I believe in developing oneself constantly by following recent developments in the field and working as a team. At the moment I'm familiar with Git version control system and GitHub, development methodologies such as Agile and Scrum, project management systems like Jira; API imitation servers like mockAPI
-and Postman — API management/testing platform.
+I'm a front-end developer. Worked as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front-end development journey. I believe in developing oneself constantly by following recent developments in the field and working as a team. At the moment I'm familiar with Git version control system and GitHub, development methodologies such as Agile and Scrum, project management systems like Jira; API imitation servers like mockAPI and Postman — API management/testing platform.
 
 In my projects, I've been using programming languages, preprocessors, frameworks, libraries, module bundlers and data formats such as HTML, CSS, SASS (SCSS), JSON, Bootstrap, JavaScript, jQuery, WebPack, React JS, Redux-Toolkit. Implementing clean coding, and complying with deadline in these projects are two of my top priorities. For the short-term goals, I'll master React JS and Redux-Toolkit; As for the long-term, I'll become a web 3.0 developer.
 
@@ -92,9 +91,8 @@ In my projects, I've been using programming languages, preprocessors, frameworks
 -   ![Karate-Do](./img/icons8-karate-24.png) Karate-Do
 -   ![Classical Guitar](./img/icons8-guitar-24.png) Classical Guitar
 
-
 ### Can't Rule Out The Fact That I'm A Gamer
 
- - [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
- - [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
- - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuAvmRUGYwoYevECTiBx_vw)
+-   [![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+-   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+-   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuAvmRUGYwoYevECTiBx_vw)
