@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a front-end developer. Worked as a freelance translator (not sworn) (EN<>TR) in my spare time for over 7 years. In March, 2022, I've started my front-end development journey. I believe in developing oneself constantly by following recent developments in the field and working as a team. At the moment I'm familiar with Git version control system and GitHub, development methodologies such as Agile and Scrum, project management systems like Jira; API imitation servers like mockAPI and Postman — API management/testing platform.
+I'm a front-end developer with 2 years of professional responsive web development experience using ReactJS and Redux. I’ve got the opportunity to work with different teams in an Agile environment with Scrum principles, and I’ve taken part in designing, production, testing and deployment SDLC phases on Jira.
 
-In my projects, I've been using programming languages, preprocessors, frameworks, libraries, module bundlers and data formats such as HTML, CSS, SASS (SCSS), JSON, Bootstrap, JavaScript, jQuery, WebPack, React JS, Redux-Toolkit. Implementing clean coding, and complying with deadline in these projects are two of my top priorities. For the short-term goals, I'll master React JS and Redux-Toolkit; As for the long-term, I'll become a web 3.0 developer.
+Implementing clean coding, and complying with deadline in these projects have been two of my top priorities. And I'm always open to learning new technologies.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -53,8 +53,6 @@ In my projects, I've been using programming languages, preprocessors, frameworks
 
 ## Short Term Goals
 
--   [x] Learn React JS
--   [x] Learn Redux
 -   [ ] Learn NextJS
 -   [ ] Learn TypeScript
 
@@ -65,14 +63,8 @@ In my projects, I've been using programming languages, preprocessors, frameworks
 
 ## Some of My Projects
 
--   [Greater Roads](https://greater-roads-8nrg.vercel.app)
--   [Gym Exercise Application](https://halibal-gym-application.netlify.app) —— [Repo](https://github.com/halibal/gym-application)
--   [Todo App](https://todo-2-snowy.vercel.app) —— [Repo](https://github.com/halibal/todo_2)
--   [Tenzies Game](https://halibal.github.io/tenzies-game/) —— [Repo](https://github.com/halibal/tenzies-game)
--   [Calculator Application](https://halibal.github.io/calculator-application-reactjs/) —— [Repo](https://github.com/halibal/calculator-application-reactjs)
--   [Recipe Application](https://halibal.github.io/recipe-application/) —— [Repo](https://github.com/halibal/recipe-application)
--   [Hackerrank & Coderbyte Solutions](https://halibal.github.io/hackerrank-coderbyte-solutions/) —— [Repo](https://github.com/halibal/hackerrank-coderbyte-solutions)
--   [Tic Tac Toe](https://halibal.github.io/tic-tac-toe/) —— [Repo](https://github.com/halibal/tic-tac-toe)
+-   [Greater Roads](https://www.greaterroads.com)
+-   [Libray Dreams](https://www.librarydreams.com)
 
 ## Contact Me
 
