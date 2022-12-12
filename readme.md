@@ -16,9 +16,7 @@
 
 ## About Me
 
-I'm a front-end developer with 2 years of professional responsive web development experience using ReactJS and Redux. I’ve got the opportunity to work with different teams in an Agile environment with Scrum principles, and I’ve taken part in designing, production, testing and deployment SDLC phases on Jira.
-
-Implementing clean coding, and complying with deadline in these projects have been two of my top priorities. And I'm always open to learning new technologies.
+I'm a front-end developer with 2 years of professional responsive web development experience using ReactJS and Redux. Implementing clean coding, and complying with deadline in these projects have been two of my top priorities. And I'm always open to learning new technologies.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
