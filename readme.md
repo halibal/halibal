@@ -63,6 +63,9 @@ I'm a front-end developer with 2 years of professional responsive web developmen
 
 -   [Greater Roads](https://www.greaterroads.com)
 -   [Libray Dreams](https://www.librarydreams.com)
+-   [E-Commerce — HL Headphones](https://e-commerce-nu-eight.vercel.app)
+-   [Restaurant Landing Page](https://restaurant-liart-three.vercel.app/)
+-   [GPT3 Landing Page](https://modern-responsive-ux-ui-website.vercel.app)
 
 ## Contact Me
 
