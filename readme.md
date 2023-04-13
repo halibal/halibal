@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a front-end developer with 2 years of professional responsive web development experience using ReactJS and Redux. Implementing clean coding, and complying with deadline in these projects have been two of my top priorities. And I'm always open to learning new technologies.
+As a frontend developer, I specialize in building responsive and user-friendly web applications using HTML, CSS, and JavaScript. I have experience working extensively with APIs to integrate backend functionality into web applications. I'm proficient in several frameworks and libraries including React JS, Redux Toolkit, React Router Dom, and Axios. I'm also familiar with various UI design tools, such as Figma, and have experience using Jira to manage the development process in an agile environment with scrum. With a strong work ethic and a passion for coding, I'm always eager to learn new skills and take on new challenges.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -44,6 +44,13 @@ I'm a front-end developer with 2 years of professional responsive web developmen
 [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](###Programming)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](###Programming)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](###Programming)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](###Programming)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](###Programming)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](###Programming)
+[![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)](###Programming)
+[![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](###Programming)
+[![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)](###Programming)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](###Programming)
 
 <a href="https://github.com/halibal">
         <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs?username=halibal&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
@@ -54,18 +61,13 @@ I'm a front-end developer with 2 years of professional responsive web developmen
 -   [ ] Learn NextJS
 -   [ ] Learn TypeScript
 
-## Long Term Goals
-
--   [ ] Learn Svelte
--   [ ] Learn Web 3.0
-
 ## Some of My Projects
 
 -   [Greater Roads](https://www.greaterroads.com)
--   [Libray Dreams](https://www.librarydreams.com)
 -   [E-Commerce — HL Headphones](https://e-commerce-nu-eight.vercel.app)
--   [Restaurant Landing Page](https://restaurant-liart-three.vercel.app/)
--   [GPT3 Landing Page](https://modern-responsive-ux-ui-website.vercel.app)
+-   [Golden Goose — Restaurant Landing Page](https://restaurant-liart-three.vercel.app/)
+-   [GPT3 — Modern Responsive Landing Page](https://modern-responsive-ux-ui-website.vercel.app)
+-   [GYM App](https://gym-app-teal.vercel.app)
 
 ## Contact Me
 
