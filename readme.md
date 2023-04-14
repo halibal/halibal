@@ -1,10 +1,13 @@
 # WELCOME ABOARD
 
-<p align="center">
-    <img src="./img/gif1.gif">
+<p  style="text-align: center;">
+    <img src="./img/3d_portfolio.gif">
+</p>
+<p style="text-align: center;">
+    <a href="https://halibal.github.io"style="color: #915EFF">https://halibal.github.io</a>
 </p>
 
-<p align="center" style="text-align: center;">
+<p style="text-align: center;">
     <a href="https://github.com/halibal">
     <img
         width="100px"
