@@ -4,7 +4,7 @@
     <img src="./img/3d_portfolio.gif">
 </p>
 <p style="text-align: center;">
-    <a href="https://halibal.github.io"style="color: #915EFF">https://halibal.github.io</a>
+    <a href="https://halibal.github.io"style="color: #915EFF">https://halibal.github.io/3d-portfolio/</a>
 </p>
 
 <p style="text-align: center;">
