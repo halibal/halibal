@@ -19,7 +19,7 @@
 
 ## About Me
 
-As a frontend developer, I specialize in building responsive and user-friendly web applications using HTML, CSS, and JavaScript. I have experience working extensively with APIs to integrate backend functionality into web applications. I'm proficient in several frameworks and libraries including React JS, Redux Toolkit, React Router Dom, and Axios. I'm also familiar with various UI design tools, such as Figma, and have experience using Jira to manage the development process in an agile environment with scrum. With a strong work ethic and a passion for coding, I'm always eager to learn new skills and take on new challenges.
+As a frontend developer, I build responsive, modern websites that are easy to use. I've worked a lot with APIs for frontend integration and used Redux for managing state in e-commerce websites and admin dashboards. I know my way around with Figma, TailwindCSS and Bootstrap. Besides tech skills, I've led teams, coordinated git pull requests, and used Jira for fast and flexible projects. I work hard, love coding, and always ready to learn and face new challenges.
 
 <p align="center" style="text-align: center;">
     <a href="https://github.com/halibal">
@@ -59,13 +59,9 @@ As a frontend developer, I specialize in building responsive and user-friendly w
         <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs?username=halibal&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
 </a>
 
-## Short Term Goals
-
--   [ ] Learn NextJS
--   [ ] Learn TypeScript
-
 ## Some of My Projects
 
+-   [Velocity Rent](https://www.velocityrent.com)
 -   [Greater Roads](https://www.greaterroads.com)
 -   [E-Commerce — HL Headphones](https://e-commerce-nu-eight.vercel.app)
 -   [Golden Goose — Restaurant Landing Page](https://restaurant-liart-three.vercel.app/)
