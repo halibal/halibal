@@ -42,6 +42,7 @@ I build responsive, modern websites that are easy to use with React JS/Next JS.
 
 ## Some of My Projects
 
+-   [Velocity Rent](https://www.velocityrent.com)
 -   [Greater Roads](https://www.greaterroads.com)
 -   [E-Commerce — HL Headphones](https://e-commerce-nu-eight.vercel.app)
 -   [Golden Goose — Restaurant Landing Page](https://restaurant-liart-three.vercel.app/)
