@@ -7,28 +7,9 @@
     <a href="https://halibal.github.io"style="color: #915EFF">https://halibal.github.io/3d-portfolio/</a>
 </p>
 
-<p style="text-align: center;">
-    <a href="https://github.com/halibal">
-    <img
-        width="100px"
-        align="right"
-        src="https://visitor-badge.glitch.me/badge?page_id=halibal.visitor-badge&left_color=grey&right_color=blueviolet&left_text=My%20Page%20Visitors"
-        />
-    </a>
-</p>
-
 ## About Me
 
-As a frontend developer, I specialize in building responsive and user-friendly web applications using HTML, CSS, and JavaScript. I have experience working extensively with APIs to integrate backend functionality into web applications. I'm proficient in several frameworks and libraries including React JS, Redux Toolkit, React Router Dom, and Axios. I'm also familiar with various UI design tools, such as Figma, and have experience using Jira to manage the development process in an agile environment with scrum. With a strong work ethic and a passion for coding, I'm always eager to learn new skills and take on new challenges.
-
-<p align="center" style="text-align: center;">
-    <a href="https://github.com/halibal">
-    <img
-        align="center"
-        src="https://github-profile-trophy.vercel.app/?username=halibal&theme=discord"
-        />
-    </a>
-</p>
+I build responsive, modern websites that are easy to use with React JS/Next JS.
 
 ## Languages
 
@@ -56,13 +37,8 @@ As a frontend developer, I specialize in building responsive and user-friendly w
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](###Programming)
 
 <a href="https://github.com/halibal">
-        <img height="113em" src="https://github-readme-stats.vercel.app/api/top-langs?username=halibal&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
+        <img height="200em" src="https://github-readme-stats-halibal.vercel.app/api/top-langs?username=halibal&layout=donut"/>
 </a>
-
-## Short Term Goals
-
--   [ ] Learn NextJS
--   [ ] Learn TypeScript
 
 ## Some of My Projects
 
