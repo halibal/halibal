@@ -1,10 +1,8 @@
-# WELCOME ABOARD 
+# WELCOME ABOARD
 
-I build responsive, modern easy to use websites with React JS/Next.js 13.
+I build responsive, modern user friendly websites with React JS/Next.js 13 using TypeScript/JavaScript.
 
 ## Languages
-
-
 
 <a href="https://github.com/halibal">
         <img height="200em" src="https://github-readme-stats-halibal.vercel.app/api/top-langs?username=halibal&layout=donut"/>
@@ -12,6 +10,7 @@ I build responsive, modern easy to use websites with React JS/Next.js 13.
 
 ## Some Projects You Can Check Out
 
+-   [FrontlineCode](https://frontline-code.vercel.app)
 -   [Velocity Rent](https://www.velocityrent.com)
 -   [Greater Roads](https://www.greaterroads.com)
 -   [E-Commerce — HL Headphones](https://e-commerce-nu-eight.vercel.app)
