@@ -1,31 +1,12 @@
 # WELCOME ABOARD
 
-I build responsive, modern user friendly websites with React JS/Next.js using TypeScript/JavaScript.
+I build responsive, modern user friendly websites with React JS/Next.js 14 using TypeScript/JavaScript.
 
 ## Some Projects You Can Check Out
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(1, 1fr); max-width: 1000px; gap: 10px;">
-        <div style="width: 100%; height: 200px;">
-                <a href="https://frontline-code.vercel.app" title="FrontlineCode">
-                        <img height="200px" alt="FrontlineCode" title="FrontlineCode"  src="./img/frontlinecode.png" style="width: 100%; height: 100%; object-fit: cover" />
-                </a>
-        </div>
-        <div style="width: 100%; height: 200px;">
-                <a href="https://glift.vercel.app/" title="Glift" style="width: 100%; height: auto;">
-                        <img height="200px" title="Glift" alt="Glift" src="./img/glift_social.png" style="width: 100%; height: 100%; object-fit: cover" />
-                </a>
-        </div>
-        <div style="width: 100%; height: 200px;">
-                 <a href="https://pulsarion.vercel.app/" title="Pulsarion" style="width: 100%; height: auto;">
-                        <img height="200px" title="Pulsarion" alt="Pulsarion" src="./img/pulsarion-graph.png" style="width: 100%; height: 100%; object-fit: cover" />
-                </a>
-        </div>
-        <div style="width: 100%; height: 200px;">
-                 <a href="https://pickanddrive-psi.vercel.app" title="Pick&Drive" style="width: 100%; height: auto;">
-                        <img height="200px" title="Pick&Drive" alt="Pick&Drive" src="./img/pick_and_drive.png" style="width: 100%; height: 100%; object-fit: cover" />
-                </a>
-        </div>
-</div>
+[My Portfolio](https://halibal-portfolio.vercel.app)
+
+[![Halibal's Portfolio](https://halibal-portfolio.vercel.app/images/portfolio.jpg)](https://halibal-portfolio.vercel.app)
 
 ## Contact Me
 
