@@ -1,20 +1,39 @@
 # WELCOME ABOARD
 
-I build responsive, modern user friendly websites with React JS/Next.js 14 using TypeScript/JavaScript.
+<div style="display:flex;justify-content:space-between">
+    <div>
+        <p> 
+            I build responsive, modern user friendly websites with React JS/Next.js using TypeScript/JavaScript.
+        </p>
+        <h2>Contact Me</h2>
+        <div>
+            <a href="https://www.linkedin.com/in/halilagul/" title="Go to Halil's LinkedIn">
+                <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+            </a>
+            <a href="mailto:halibal95@gmail.com" title="Go to Halil's Gmail">
+                <img src="https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:halibal95@gmail.com" />
+            </a>
+            <a href="https://github.com/halibal" title="Go to Halil's GitHub">
+                <img src="https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="https://www.hackerrank.com/halibal95" title="Go to Halil's Hackerrank Profile">
+                <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+            </a>
+            <a href="https://www.instagram.com/halibal__/" title="Go to Halil's Instagram">
+                <img src="https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" />
+            </a>
+        </div>
+    </div>
+    <a href="https://halibal-portal.vercel.app" target="_blank" title="Halibal's Portal">
+        <img src="./img/qrcode.png" style="width: 200px; height:200px; border-radius: 25px" />
+    </a>
+</div>
 
 ## Some Projects You Can Check Out
 
 [My Portfolio](https://halibal-portfolio.vercel.app)
 
-[![Halibal's Portfolio](https://halibal-portfolio.vercel.app/images/portfolio.jpg)](https://halibal-portfolio.vercel.app)
-
-## Contact Me
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilagul/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:halibal95@gmail.com)](mailto:halibal95@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/halibal__/)
-[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halibal)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/halibal95)
+[![Halibal's Portfolio](./img/portfolio2.png)](https://halibal-portfolio.vercel.app)
 
 ## Yup, I'm A Gamer...
 
