@@ -24,7 +24,7 @@
             </a>
         </div>
     </div>
-    <a href="https://halibal-portal.vercel.app" target="_blank" title="Halibal's Portal">
+    <a href="https://www.halibal.com" target="_blank" title="Halibal's Website">
         <img src="./img/qrcode.png" style="width: 200px; height:200px; border-radius: 25px" />
     </a>
 </div>
