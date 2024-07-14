@@ -1,6 +1,6 @@
 # WELCOME ABOARD
 
-<div style="display:flex;justify-content:space-between">
+<div style="display:flex;justify-content:space-between;gap:16px">
     <div>
         <p> 
             I build responsive, modern user friendly websites with React JS/Next.js using TypeScript/JavaScript.
